@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Belinda!
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m interested in ... all things, beauty, fashion and tech.
+- 🌱 I’m currently learning ... cloud and software engineering.
+- 👀 I’m looking to for ... opportunities to grow within the technology field.
 - 📫 How to reach me ... connect with me on [LinkedIn](https://www.linkedin.com/in/thebelindadunu/)!
 
 <!---
