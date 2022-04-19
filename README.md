@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Belinda!
 - 💞️ I’m interested in all things, beauty, fashion and tech.
-- 🌱 I’m currently learning cloud and software engineering.
+- 🌱 I’m currently learning Cloud/DevOps engineering.
 - 👀 I’m looking for Cloud/DevOps opportunities.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/thebelindadunu/)!
 
